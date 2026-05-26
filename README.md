@@ -45,10 +45,10 @@ Tôi là một lập trình viên tập trung vào mảng Back-end, đam mê xâ
 ---
 
 ### 📊 Thống kê Hoạt động (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOANGTHI2509&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOANGTHI2509&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOANGTHI2509&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOANGTHI2509&layout=compact&theme=tokyonight)
 
 ---
 
