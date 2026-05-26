@@ -34,3 +34,5 @@ Vị trí hiển thị các chỉ số phân tích trực quan về hiệu suấ
 ### 📬 Kết nối với tôi
 - 📧 Email: [thihoang139hn@icloud.com]
 - 💼 LinkedIn:
+### 🐍 Quá trình hoạt động (Contribution Graph)
+![Snake animation](https://raw.githubusercontent.com/HOANGTHI2509/HOANGTHI2509/output/github-snake-dark.svg)
