@@ -18,19 +18,19 @@ Tôi là một lập trình viên tập trung vào mảng Back-end, đam mê xâ
 
 #### 🎬 [Hệ thống Quản lý & Đặt vé Xem phim trực tuyến](https://github.com/HOANGTHI2509/WEB_QUAN_LY_DAT_VE_XEM_PHIM)
 *Một ứng dụng web quản lý rạp chiếu phim với nghiệp vụ phức tạp về lịch chiếu và giữ chỗ.*
-- **🔗 Liên kết:** [Xem Mã nguồn (GitHub) ↗](https://github.com/HOANGTHI2509/WEB_QUAN_LY_DAT_VE_XEM_PHIM) | [Live Demo 🌐](#) *(Nếu có web thật thì dán link vào đây, không thì xóa mục Live Demo đi)*
+- **🔗 Liên kết:** [Xem Mã nguồn (GitHub) ↗](https://github.com/HOANGTHI2509/WEB_QUAN_LY_DAT_VE_XEM_PHIM) |
 - **Công nghệ:** PHP (MVC), MySQL, Bootstrap.
 - **Vai trò Back-end:** - Thiết kế lược đồ Cơ sở dữ liệu (ERD) có tính liên kết chặt chẽ (Phim, Phòng chiếu, Suất chiếu, Vé).
   - Xây dựng logic xử lý đặt vé, kiểm tra ghế trống theo thời gian thực (Real-time).
   - Xây dựng Admin Dashboard quản lý doanh thu, xuất báo cáo thống kê.
 
-#### 🏢 [Triển khai Hệ thống Odoo ERP](#) *(Dán link repo tài liệu hoặc báo cáo của bạn vào dấu #)*
+#### 🏢 [Triển khai Hệ thống Odoo ERP](#)
 *Tối ưu hóa quy trình quản lý doanh nghiệp thông qua mã nguồn mở ERP.*
 - **🔗 Liên kết:** [Tài liệu cấu hình & Triển khai ↗](#)
 - **Công nghệ:** Python, PostgreSQL, Docker, Odoo.
 - **Vai trò:** Cấu hình và triển khai phân hệ Kế toán (Accounting) và Hóa đơn (Invoicing) trên môi trường Docker/WSL2; nghiên cứu kiến trúc module của Odoo.
 
-#### 📚 [Trạm Đọc (Reading Station) - API & App](#) *(Dán link repo Flutter của bạn vào đây)*
+#### 📚 [Trạm Đọc (Reading Station) - API & App](#)
 *Ứng dụng di động quản lý tiến độ đọc sách và số hóa dữ liệu.*
 - **🔗 Liên kết:** [Xem Mã nguồn (GitHub) ↗](#)
 - **Công nghệ:** Flutter/Dart, API, OCR Engine.
